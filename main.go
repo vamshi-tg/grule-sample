@@ -1,0 +1,1 @@
+package grule-sample
